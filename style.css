@@ -1,0 +1,77 @@
+.header_div{
+    background: white;
+    color: goldenrod;
+}
+.main_div{
+    padding:10px;
+    margin-top: 16px;
+    border: 3px solid wheat ;
+}
+
+.header_div img{
+    width: 100px;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 6px 8px 9px black;
+}
+
+#camera{
+border:3px black;
+width: 310px;
+height: 300px;
+box-shadow: 9px 9px 9px black;
+
+}
+
+.main_div button{
+width: 310px;
+font-size: 20px;
+box-shadow: 6px 8px 20px teal;
+border: 4px blanchedalmond;
+}
+
+body{
+    font-family: Homemade Apple;
+    background-color: crimson;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding-top: 20px;
+    width: 400px;
+    padding: 8px;
+    box-shadow: -6px -7px 20 greenyellow;
+
+}
+.footer_div img{
+    width:70px;
+
+}
+
+.copyright_div{
+    width: 100%;
+    margin: 10px;
+    position: fixed;
+    color: black;
+    background: white;
+    bottom:0;
+    line-height: 3;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 15px;
+}
+
+#result{
+    border:3px black;
+    width: 310px;
+    height: 300px;
+    box-shadow: 9px 9px 9px black;
+    
+    }
